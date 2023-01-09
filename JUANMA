@@ -1,0 +1,18 @@
+input.onButtonPressed(Button.A, function () {
+    basic.showString("JUANMA")
+})
+
+# Variable contador 
+cont = 0
+
+nombre="JUANMA"
+
+while true
+display.scroll(nombre)
+
+if button_a.was_pressed():
+cont = cont +1 
+if button_b.was_pressed()
+cont = cont -1
+
+display.scrollo(cont)
