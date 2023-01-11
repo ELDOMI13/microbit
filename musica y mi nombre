@@ -1,0 +1,6 @@
+from microbit import *
+import music
+
+display.scroll ("JUANMA" , wait=False, loop=True)
+
+music.play(music.WEDDING)
