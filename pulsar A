@@ -1,0 +1,6 @@
+# Imports go at the top
+from microbit import *
+ #contar las veces que se pulsa el bonton 13 
+# 13 segundo
+sleep(13000)
+display.scroll(str(button_a.get_presses()))
