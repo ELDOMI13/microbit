@@ -1,0 +1,32 @@
+import speech
+n = 1 
+borde = Image ("00900:09990:99999:09990:00900")
+inferior = Image ("90009:99999:90909:99999:90009")
+jirafa = Image ("90000:09000:09000:09990:09090")
+jirafa1 = Image ("00090:00009:00009:00009:00009")
+jirafa2 = Image ("00900:00090:00090:00099:00090")
+jirafa3 = Image ("09000:00900:00900:00999:00909")
+jirafa4 = Image ("09000:00900:00900:00999:00909")
+inferior = Image ("90009:99999:90909:99999:90009")
+jirafa5 = Image ("90000:09000:09000:09990:09090")
+jirafa6 = Image ("00090:00009:00009:00009:00009")
+jirafa7 = Image ("00900:00090:00090:00099:00090")
+jirafa8 = Image ("09000:00900:00900:00999:00909")
+jirafa9 = Image ("09000:00900:00900:00999:00909")
+
+
+
+
+while n <= 10:
+    display.show(jirafa)
+    sleep(500)
+    display.show(jirafa1)
+    sleep(500)
+    display.show(jirafa2)
+    sleep(500)
+    display.show(jirafa3)
+    sleep(500)
+    display.show(jirafa4)
+    sleep(500)
+
+    
