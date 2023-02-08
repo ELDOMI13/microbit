@@ -1,0 +1,9 @@
+# Imports go at the top
+from microbit import *
+import music 
+
+SS=['g3:2','g3:3','c4:4','d4:2','e4:4','e3:4','e3:3','g3:3','f3:3','e4:4','d4:4','d4:4','d3:3','d4:4','']
+
+
+
+music.play(SS)
